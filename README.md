@@ -10,3 +10,9 @@ A setup for a machine to always have the pb surf cam up
    ```
    mpv --fullscreen --no-osc "https://live.hdontap.com/hls/hosb1/pacificbeach_pacterrace.stream/chunklist.m3u8?e=1780506661&eh=edge02.nginx.hdontap.com&t=ktza5dQS-uvq4deAih3eNQ"
    ```
+
+
+   But here is how you use this script!
+
+   1. Clone the repo.
+   2. run python3 surfcam.py
