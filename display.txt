@@ -1,0 +1,1 @@
+DISPLAY=:0 XAUTHORITY=/run/user/1000/gdm/Xauthority python3 /home/kile/dev/surfcam/surfcam.py

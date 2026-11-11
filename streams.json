@@ -1,0 +1,29 @@
+{
+  "seconds_per_stream": 300,
+  "streams": [
+    {
+      "title": "Pacific Beach",
+      "url": "https://hdontap.com/stream/186699/pacific-beach-live-surf-webcam/"
+    },
+    {
+      "title": "Scripps Pier Underwater",
+      "url": "https://hdontap.com/stream/018408/scripps-pier-underwater-live-webcam/"
+    },
+    {
+      "title": "La Jolla Shores",
+      "url": "https://hdontap.com/stream/532541/la-jolla-shores-live-surf-cam/"
+    },
+    {
+      "title": "Half Dome",
+      "url": "https://pixelcaster.com/yosemite/webcams/ahwahnee2.jpg"
+    },
+    {
+      "title": "Yosemite High Sierra",
+      "url": "https://pixelcaster.com/yosemite/webcams/sentinel.jpg"
+    },
+    {
+      "title": "El Capitan",
+      "url": "https://pixelcaster.com/yosemite/webcams/turtleback.jpg"
+    }
+  ]
+}
